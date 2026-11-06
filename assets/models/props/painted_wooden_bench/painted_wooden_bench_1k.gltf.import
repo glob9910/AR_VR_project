@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cs46c7yuvhlni"
-path="res://.godot/imported/basket.gltf-f157f6897f88f218a43c9a956ea247a8.scn"
+uid="uid://bbgeqgu0158i8"
+path="res://.godot/imported/painted_wooden_bench_1k.gltf-cad3c9d6a46632f5192b44330d9fd535.scn"
 
 [deps]
 
-source_file="res://assets/models/basket.gltf"
-dest_files=["res://.godot/imported/basket.gltf-f157f6897f88f218a43c9a956ea247a8.scn"]
+source_file="res://assets/models/props/painted_wooden_bench/painted_wooden_bench_1k.gltf"
+dest_files=["res://.godot/imported/painted_wooden_bench_1k.gltf-cad3c9d6a46632f5192b44330d9fd535.scn"]
 
 [params]
 

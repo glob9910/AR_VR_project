@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://b2bgb4uyl4pb5"
-path="res://.godot/imported/environment.gltf-c2d93b6dcbcb7a989f2788a66a0d827e.scn"
+uid="uid://c6ts02p1dqyi4"
+path="res://.godot/imported/wooden_picnic_table_1k.gltf-813d52e3db6afdc53d9e64f483559a22.scn"
 
 [deps]
 
-source_file="res://assets/models/environment.gltf"
-dest_files=["res://.godot/imported/environment.gltf-c2d93b6dcbcb7a989f2788a66a0d827e.scn"]
+source_file="res://assets/models/props/wooden_picnic_table/wooden_picnic_table_1k.gltf"
+dest_files=["res://.godot/imported/wooden_picnic_table_1k.gltf-813d52e3db6afdc53d9e64f483559a22.scn"]
 
 [params]
 

@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cunicw5ifva7g"
-path="res://.godot/imported/court.gltf-ef9335244cb254ac8ae0db988488393a.scn"
+uid="uid://cdmc0vh00xwrl"
+path="res://.godot/imported/shrub_03_1k.gltf-6bb56a4e9289149bd623bb7406671038.scn"
 
 [deps]
 
-source_file="res://assets/models/court.gltf"
-dest_files=["res://.godot/imported/court.gltf-ef9335244cb254ac8ae0db988488393a.scn"]
+source_file="res://assets/models/props/shrub_03/shrub_03_1k.gltf"
+dest_files=["res://.godot/imported/shrub_03_1k.gltf-6bb56a4e9289149bd623bb7406671038.scn"]
 
 [params]
 

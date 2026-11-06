@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://c3i3llesu2exd"
-path="res://.godot/imported/fence.gltf-7d047003015bde9145e93096ba152162.scn"
+uid="uid://dovn0tatah3ym"
+path="res://.godot/imported/metal_trash_can_1k.gltf-c01e332c359a8d85c50ddba3b56e5994.scn"
 
 [deps]
 
-source_file="res://assets/models/fence.gltf"
-dest_files=["res://.godot/imported/fence.gltf-7d047003015bde9145e93096ba152162.scn"]
+source_file="res://assets/models/props/metal_trash_can/metal_trash_can_1k.gltf"
+dest_files=["res://.godot/imported/metal_trash_can_1k.gltf-c01e332c359a8d85c50ddba3b56e5994.scn"]
 
 [params]
 
